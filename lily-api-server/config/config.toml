@@ -1,0 +1,13 @@
+[app]
+name = "lily-api-server"
+port = 6200
+
+[rdb]
+driver = "mysql"
+user = "lily"
+password = "bD6hpcYy"
+schema = "lily"
+host = "localhost"
+port = 3306
+
+
